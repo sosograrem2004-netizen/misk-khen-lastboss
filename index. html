@@ -32,7 +32,7 @@ img:hover{
 <body>
 
 <a href="https://ضع-رابط-لوحتك-هنا.vercel.app" target="_blank">
-  <img src="background.png" alt="اضغط لفتح اللوحة">
+  <img src="background.jpg" alt="اضغط لفتح اللوحة">
 </a>
 
 </body>
